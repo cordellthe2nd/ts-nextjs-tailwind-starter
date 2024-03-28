@@ -33,7 +33,7 @@ export default function HomePage() {
           <Logo className='w-16' />
           <h1 className='mt-4'>Cordell Weathersbee II</h1>
           <p className='mt-2 text-sm text-gray-800'>
-            Welcome to The Cortext Human Potential Hackers{' '}
+            Welcome to The Weekly Wellness KPI Scheduler Human Potential Hackers{' '}
           </p>
           <p className='mt-2 text-sm text-gray-700'>
             <ArrowLink href='https://github.com/theodorusclarence/ts-nextjs-tailwind-starter'>
